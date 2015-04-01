@@ -54,17 +54,18 @@ HEADER
   
   nav {
     background: none;
-    float: right;
+    display: block;
     font-size: 1.125m;
-    margin-right: 5%;
-    text-align: right;
+    margin: auto;
+    text-align: center;
     width: 45%;
   }
   
   #logo {
-    float: left;
-    margin-left: 5%;
-    text-align: left;
+      display: block;
+
+    margin: auto;
+    text-align: center;
     width: 45%;
   }
   
